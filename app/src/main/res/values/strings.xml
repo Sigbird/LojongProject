@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Projeto Lojong</string>
+    <string name="title_home">Fundamentos</string>
+    <string name="title_dashboard">Insigts</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_fundamentos">Fundamentos</string>
+    <string name="title_insight">Insight</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
